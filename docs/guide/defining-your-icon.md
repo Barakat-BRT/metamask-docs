@@ -8,6 +8,6 @@ The tag's `href` attribute will be used for assigning the site icon.
 
 ```html
 <head>
-  <link rel="shortcut icon" href="https://your-site.com/your-icon.png" />
+  <link rel="shortcut icon" href="https://barakatcoin.io/wp-content/uploads/2022/02/Design-ohne-Titel3.png" />
 </head>
 ```
